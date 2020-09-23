@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "872909988871",
+    "firebase_url": "https://fir-deshi.firebaseio.com",
+    "project_id": "fir-deshi",
+    "storage_bucket": "fir-deshi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872909988871:android:c8c91ae4cd5d4194a176a2",
+        "android_client_info": {
+          "package_name": "com.example.firebase_deshi2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872909988871-jug65akjr6qd8g2dnc7injflhh0edmcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnKDZv9r3kgIl7B4nqwWwNuhJNRtbx7DU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872909988871-jug65akjr6qd8g2dnc7injflhh0edmcu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
