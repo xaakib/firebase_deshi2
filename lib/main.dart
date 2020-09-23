@@ -112,7 +112,7 @@ class _FiresContainerListState extends State<FiresContainerList> {
                           ),
                         ),
                         Text(
-                          destination.descriptions,
+                          .descriptions,
                           style: TextStyle(
                             color: Colors.grey,
                           ),
